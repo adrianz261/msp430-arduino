@@ -3,7 +3,7 @@
     {
       "name": "MSP430",
       "websiteURL": "https://www.ti.com/tool/MSP-EXP430G2",
-      "maintainer": "STMicroelectronics",
+      "maintainer": "TI",
       "email": "",
       "help": {
         "online": "http://www.ti.com/"
@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/1.9.0/STM32-1.9.0.tar.bz2",
           "archiveFileName": "STM32-1.9.0.tar.bz2",
-          "checksum": "",
+          "checksum": "SHA-256:10b403b6b437c183d9a0a74a08ebe425766f6c3425474b1f800f6eca337075a6",
           "size": "33617865",
           "boards": [
             {"name": "MSP-EXP430G2"}
