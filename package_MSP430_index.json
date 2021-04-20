@@ -1,0 +1,117 @@
+{
+  "packages": [
+    {
+      "name": "MSP430",
+      "websiteURL": "https://www.ti.com/tool/MSP-EXP430G2",
+      "maintainer": "STMicroelectronics",
+      "email": "",
+      "help": {
+        "online": "http://www.ti.com/"
+      },
+      "platforms": [
+        {
+          "name": "MSP430 Cores",
+          "architecture": "MSP430",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/1.9.0/STM32-1.9.0.tar.bz2",
+          "archiveFileName": "STM32-1.9.0.tar.bz2",
+          "checksum": "",
+          "size": "33617865",
+          "boards": [
+            {"name": "MSP-EXP430G2"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "TI",
+              "name": "MSP430-GCC-OPENSOURCE",
+              "version": "9.3.1.1"
+            },
+            {
+              "packager": "TI",
+              "name": "MSP-FLASHER",
+              "version": "1.03.20.00"
+            },
+            {
+              "packager": "TI",
+              "name": "GCC SOURCE FILES",
+              "version": "9.3.1.1"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "MSP430-GCC-OPENSOURCE",
+          "version": "9.3.1.1",
+          "systems":
+          [
+            {
+              "host": "msp430-gcc-9.3.1.11",
+              "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11_win64.zip",
+              "archiveFileName": "msp430-gcc-9.3.1.11_win64.zip",
+              "checksum": "",
+              "size": "89223008"
+            },
+            {
+              "host": "msp430-gcc-9.3.1.11_linux32",
+              "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11_linux32.tar.bz2",
+              "archiveFileName": "xpack-arm-none-eabi-gcc-9.2.1-1.1-linux-x64.tar.gz",
+              "checksum": "SHA-256:bbde117b97f229dfe63721c0323c3da6839e83cf302c8f4ff25e0f36ecf7a428",
+              "size": "63809529"
+            },
+            {
+              "host": "msp430-gcc-9.3.1.11_linux64",
+              "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11_linux64.tar.bz2",
+              "archiveFileName": "msp430-gcc-9.3.1.11_linux64.tar.bz2",
+              "checksum": "",
+              "size": "64086460"
+            }
+          ]
+        },
+        {
+          "name": "MSP-FLASHER",
+          "version": "1.03.20.00",
+          "systems":
+          [
+            {
+              "host": "msp430-gcc-9.3.1.11",
+              "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSP430Flasher/1_03_20_00/exports/MSPFlasher-1_03_20_00-windows-installer.zip",
+              "archiveFileName": "MSPFlasher-1_03_20_00-windows-installer.zip",
+              "checksum": "",
+              "size": "5287181"
+            },
+            {
+              "host": "msp430-gcc-9.3.1.11_linux32",
+              "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSP430Flasher/1_03_20_00/exports/MSPFlasher-1_03_20_00-linux-installer.zip",
+              "archiveFileName": "MSPFlasher-1_03_20_00-linux-installer.zip",
+              "checksum": "",
+              "size": "5078842"
+            },
+            {
+              "host": "msp430-gcc-9.3.1.11_linux64",
+              "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSP430Flasher/1_03_20_00/exports/MSPFlasher-1_03_20_00-linux-x64-installer.zip",
+              "archiveFileName": "MSPFlasher-1_03_20_00-linux-x64-installer.zip",
+              "checksum": "",
+              "size": "5182869"
+            }
+          ]
+        },
+        {
+          "name": "GCC SOURCE FILES",
+          "version": "1.03.20.00",
+          "systems":
+          [
+            {
+              "host": "msp430-gcc-9.3.1.11",
+              "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11-source-full.tar.bz2",
+              "archiveFileName": "msp430-gcc-9.3.1.11-source-full.tar.bz2",
+              "checksum": "",
+              "size": "187688997"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
