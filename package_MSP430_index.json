@@ -47,7 +47,7 @@
           "systems":
           [
             {
-              "host": "msp430-gcc-9.3.1.11",
+              "host": "i686-mingw32",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11_win64.zip",
               "archiveFileName": "msp430-gcc-9.3.1.11_win64.zip",
               "checksum": "SHA-256:9afcebfdb60e45b6f471fe1c16e970390198e323a77cdf4629cd239811a5c567",
@@ -75,7 +75,7 @@
           "systems":
           [
             {
-              "host": "msp430-gcc-9.3.1.11",
+              "host": "i686-mingw32",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSP430Flasher/1_03_20_00/exports/MSPFlasher-1_03_20_00-windows-installer.zip",
               "archiveFileName": "MSPFlasher-1_03_20_00-windows-installer.zip",
               "checksum": "SHA-256:b205d45455524ac8a7125360b43fad745f796700b94e37f9506da0eb5c36d3d9",
@@ -103,7 +103,7 @@
           "systems":
           [
             {
-              "host": "msp430-gcc-9.3.1.11",
+              "host": "i686-mingw32",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11-source-full.tar.bz2",
               "archiveFileName": "msp430-gcc-9.3.1.11-source-full.tar.bz2",
               "checksum": "SHA-256:095197fcd4a81d0df1ea03d62c3c3030f6024ca96df65d828c043bddde634fdd",
