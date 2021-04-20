@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "MSP430",p
+      "name": "MSP430",
       "websiteURL": "https://www.ti.com/tool/MSP-EXP430G2",
       "maintainer": "TI",
       "email": "",
