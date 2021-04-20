@@ -50,21 +50,21 @@
               "host": "msp430-gcc-9.3.1.11",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11_win64.zip",
               "archiveFileName": "msp430-gcc-9.3.1.11_win64.zip",
-              "checksum": "",
+              "checksum": "SHA-256:9afcebfdb60e45b6f471fe1c16e970390198e323a77cdf4629cd239811a5c567",
               "size": "89223008"
             },
             {
               "host": "msp430-gcc-9.3.1.11_linux32",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11_linux32.tar.bz2",
               "archiveFileName": "xpack-arm-none-eabi-gcc-9.2.1-1.1-linux-x64.tar.gz",
-              "checksum": "SHA-256:bbde117b97f229dfe63721c0323c3da6839e83cf302c8f4ff25e0f36ecf7a428",
+              "checksum": "SHA-256:457b85c790b5e07d47552034506deff837cabdfbaad80b0eca5c4a683c1ea9b6",
               "size": "63809529"
             },
             {
               "host": "msp430-gcc-9.3.1.11_linux64",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11_linux64.tar.bz2",
               "archiveFileName": "msp430-gcc-9.3.1.11_linux64.tar.bz2",
-              "checksum": "",
+              "checksum": "SHA-256:b60851b61565e3ddd2193298a3fac5120c2402597174106cc5f8482b9e9986e6",
               "size": "64086460"
             }
           ]
@@ -78,21 +78,21 @@
               "host": "msp430-gcc-9.3.1.11",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSP430Flasher/1_03_20_00/exports/MSPFlasher-1_03_20_00-windows-installer.zip",
               "archiveFileName": "MSPFlasher-1_03_20_00-windows-installer.zip",
-              "checksum": "",
+              "checksum": "SHA-256:b205d45455524ac8a7125360b43fad745f796700b94e37f9506da0eb5c36d3d9",
               "size": "5287181"
             },
             {
               "host": "msp430-gcc-9.3.1.11_linux32",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSP430Flasher/1_03_20_00/exports/MSPFlasher-1_03_20_00-linux-installer.zip",
               "archiveFileName": "MSPFlasher-1_03_20_00-linux-installer.zip",
-              "checksum": "",
+              "checksum": "SHA-256:1e1bd8a73d8e555a82611a45da02a5ee8d",
               "size": "5078842"
             },
             {
               "host": "msp430-gcc-9.3.1.11_linux64",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSP430Flasher/1_03_20_00/exports/MSPFlasher-1_03_20_00-linux-x64-installer.zip",
               "archiveFileName": "MSPFlasher-1_03_20_00-linux-x64-installer.zip",
-              "checksum": "",
+              "checksum": "SHA-256:28026e1484bcc0fd6f1f417add94075d65c2f089487d7d7a4a095eec0b7ded42",
               "size": "5182869"
             }
           ]
@@ -106,7 +106,7 @@
               "host": "msp430-gcc-9.3.1.11",
               "url": "https://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSPGCC/9_3_1_1/export/msp430-gcc-9.3.1.11-source-full.tar.bz2",
               "archiveFileName": "msp430-gcc-9.3.1.11-source-full.tar.bz2",
-              "checksum": "",
+              "checksum": "SHA-256:095197fcd4a81d0df1ea03d62c3c3030f6024ca96df65d828c043bddde634fdd",
               "size": "187688997"
             }
           ]
