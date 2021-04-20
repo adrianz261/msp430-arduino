@@ -34,8 +34,8 @@
             },
             {
               "packager": "MSP430",
-              "name": "GCC SOURCE FILES",
-              "version": "9.3.1.1"
+              "name": "GCC-SOURCE-FILES",
+              "version": "9.3.1.11"
             }
           ]
         }
@@ -98,8 +98,8 @@
           ]
         },
         {
-          "name": "GCC SOURCE FILES",
-          "version": "1.03.20.00",
+          "name": "GCC-SOURCE-FILES",
+          "version": "9.3.1.11",
           "systems":
           [
             {
